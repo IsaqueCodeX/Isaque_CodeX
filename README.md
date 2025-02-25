@@ -34,3 +34,10 @@ Bem-vindo ao meu perfil do GitHub! 🚀
 ---
 
 💡 "O sucesso é a soma de pequenos esforços repetidos dia após dia."
+
+
+
+### 🐍 Commits em movimento
+
+![Snake animation](https://github.com/IsaqueDinba/IsaqueDinba/blob/output/github-contribution-grid-snake.svg)
+
