@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil do GitHub! 🚀
 
 - 💻 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 🔭 Migrando para a área de **Desenvolvimento** com foco em **FrontEnd**
-- 🎥 Criador do canal **Fonte Contínua** no YouTube e TikTok
+- 🎥 Criador do canal **Clube do inifito** no YouTube e TikTok
 - 📍 Santa Catarina, Brasil
 
 ---
