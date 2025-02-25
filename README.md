@@ -1,7 +1,9 @@
-### 👋 Olá! Eu sou o Isaque
+### 👋 Olá, seja bem vindo(a)!
+  Eu sou o **Isaque***
 
-Bem-vindo ao meu perfil do GitHub! 🚀
-
+Esse é meu perfil do GitHub! 🚀
+ e abaixo um pouco sobre mim...
+ 
 - 💻 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 🔭 Migrando para a área de **Desenvolvimento** com foco em **FrontEnd**
 - 🎥 Criador do canal **Clube do inifito** no YouTube e TikTok
