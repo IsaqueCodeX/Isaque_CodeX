@@ -37,13 +37,6 @@ Bem-vindo ao meu perfil do GitHub! 🚀
 
 
 
-### 🐍 Commits em movimento
-
-
-### 🐍 Minhas contribuições
-### 🐍 Commits em movimento  
-
-### 🐍 Commits em movimento
 
 ![Snake animation](https://github.com/IsaqueDinba/IsaqueDinba/blob/output/github-contribution-grid-snake.svg)
 
