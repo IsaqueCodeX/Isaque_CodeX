@@ -43,6 +43,9 @@ Bem-vindo ao meu perfil do GitHub! 🚀
 ### 🐍 Minhas contribuições
 ### 🐍 Commits em movimento  
 
-![Snake animation](https://github.com/IsaqueDinba/IsaqueDinba/blob/output/github-contribution-grid-snake-dark.svg)
+### 🐍 Commits em movimento
+
+![Snake animation](https://github.com/IsaqueDinba/IsaqueDinba/blob/output/github-contribution-grid-snake.svg)
+
 
 
