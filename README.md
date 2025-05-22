@@ -1,40 +1,33 @@
-### 👋 Olá! Eu sou o Isaque
+Bem-vindo ao meu GitHub! Sou Isaque Santos, estudante de Análise e Desenvolvimento de Sistemas (ADS), apaixonado por criar soluções web e aplicativos. Tenho experiência com HTML, CSS, JavaScript, React e Python, e estou sempre explorando novas tecnologias.
 
-Bem-vindo ao meu perfil do GitHub! 🚀
- 
-- 💻 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🔭 Migrando para a área de **Desenvolvimento** com foco em **FrontEnd**
-- 🎥 Criador do canal **Clube do infinito** no YouTube e TikTok
-- 📍 Santa Catarina, Brasil
+🚀 Sobre Mim
 
----
+💻 Estudante de ADS com foco em desenvolvimento Back-end e Front-End.
+🌱 Atualmente aprendendo JavaScript, Banco de Dados e React e aprofundando meus conhecimentos em logica de programação.
+🎯 Objetivo: Tornar-me um desenvolvedor full-stack e contribuir para projetos inovadores.
 
-### 🔧 Tecnologias e Ferramentas
+🛠️ Habilidades
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+Linguagens: HTML, CSS, JavaScript, Python, SQL, KOTLIN.
+Frameworks e Ferramentas: React, Git, VSCode
+Outros: Desenvolvimento web, interfaces responsivas
 
----
+🌟 Projetos em Destaque
 
-### 📊 Estatísticas do GitHub
+Clone Spotify React Um clone da interface do Spotify usando React e CSS, com design responsivo feito atraves da Imersão alura.
+Planejador de Refeições Saudáveis: Um aplicativo pessoal, usando API e Agentes de Ia com Python para organizar refeições saudáveis.
+Projeto APP pessoal para treino de academia feito no Android Studio Usando a linguagem KOTLIN.
+Projeto HTML CBJR projeto web simples com HTML e CSS.
 
-![Isaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaqueDinba&show_icons=true&theme=radical)
+📊 Estatísticas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueDinba&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+📬 Entre em Contato
 
----
+📧 [isaque.v.l@gmail.com]  
+🔗 LinkedIn - https://www.linkedin.com/in/isaque-santos-720b8b15a/?trk=opento_sprofile_details
 
-### 🌎 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaque-santos-720b8b15a)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@clubedoinfinito)
-
----
-
-💡 "O sucesso é a soma de pequenos esforços repetidos dia após dia."
-
+⭐ Gostou? Dê uma estrela nos meus repositórios!Explore meus projetos e me contate para colaborações!
 
 
 
