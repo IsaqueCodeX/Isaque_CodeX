@@ -68,7 +68,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado e estudado:
 ---
 ### 📫 Entre em Contato:
 
-* **LinkedIn:** [Seu Perfil do LinkedIn]([URL_DO_SEU_LINKEDIN_AQUI](https://www.linkedin.com/in/isaque-santos-720b8b15a/?trk=opento_sprofile_details))
+* **LinkedIn:** [Seu Perfil do LinkedIn]([https://www.linkedin.com/in/isaque-santos-720b8b15a/?trk=opento_sprofile_details])
 * **Email:** isaque.v.l@gmail.com
 
 ---
