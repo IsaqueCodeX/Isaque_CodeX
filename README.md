@@ -63,6 +63,9 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado e estudado:
 
 ---
 
+![Snake animation](https://raw.githubusercontent.com/IsaqueCodeX/IsaqueCodeX/main/dist/github-snake.svg)
+
+---
 ### 📫 Entre em Contato:
 
 * **LinkedIn:** [Seu Perfil do LinkedIn]([URL_DO_SEU_LINKEDIN_AQUI](https://www.linkedin.com/in/isaque-santos-720b8b15a/?trk=opento_sprofile_details))
